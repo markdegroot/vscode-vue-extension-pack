@@ -1,0 +1,68 @@
+{
+  "name": "vscode-vue-extension-pack",
+  "displayName": "vscode-vue-extension-pack",
+  "description": "Visual Studio Code Extension pack for Vue Developers",
+  "version": "0.0.1",
+  "publisher": "markdegroot",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markdegroot/vscode-vue-extension-pack.git"
+  },
+  "homepage": "https://markdegroot.info",
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "keywords": [
+    "git",
+    "html",
+    "javascript",
+    "css",
+    "vue"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "2gua.rainbow-brackets",
+    "alefragnani.project-manager",
+    "antfu.iconify",
+    "bierner.markdown-preview-github-styles",
+    "bradlc.vscode-tailwindcss",
+    "buenon.scratchpads",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "dennisvhest.npm-browser",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "fabiospampinato.vscode-open-in-npm",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "Gruntfuggly.todo-tree",
+    "humao.rest-client",
+    "IBM.output-colorizer",
+    "liamhammett.inline-parameters",
+    "michelemelluso.gitignore",
+    "mitchdenny.ecdc",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-azurestorage",
+    "ms-vscode.azure-account",
+    "nmsmith89.incrementor",
+    "patbenatar.advanced-new-file",
+    "PKief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "robinbentley.sass-indented",
+    "Tyriar.sort-lines",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "wenfangdu.snippet-generator",
+    "wix.vscode-import-cost",
+    "yzhang.markdown-all-in-one"
+  ]
+}
