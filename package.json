@@ -2,7 +2,7 @@
   "name": "vscode-vue-extension-pack",
   "displayName": "vscode-vue-extension-pack",
   "description": "Visual Studio Code Extension pack for Vue Developers",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "markdegroot",
   "engines": {
     "vscode": "^1.72.0"
@@ -63,6 +63,7 @@
     "Vue.vscode-typescript-vue-plugin",
     "wenfangdu.snippet-generator",
     "wix.vscode-import-cost",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "ZixuanChen.vitest-explorer"
   ]
 }

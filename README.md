@@ -40,3 +40,4 @@ Besids Vue specific extensions it also contains other awesome extensions for fro
 - [snippet-generator](https://marketplace.visualstudio.com/items?itemName=wenfangdu.snippet-generator)
 - [vscode-import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [vitest-explorer](https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer)
