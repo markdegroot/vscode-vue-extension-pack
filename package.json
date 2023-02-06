@@ -2,7 +2,7 @@
   "name": "vscode-vue-extension-pack",
   "displayName": "vscode-vue-extension-pack",
   "description": "Visual Studio Code Extension pack for Vue Developers",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "markdegroot",
   "engines": {
     "vscode": "^1.72.0"
@@ -28,7 +28,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "2gua.rainbow-brackets",
     "alefragnani.project-manager",
     "antfu.iconify",
     "bierner.markdown-preview-github-styles",

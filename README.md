@@ -1,10 +1,17 @@
 # VS Code Extension pack for Vue Developers
 
-Besids Vue specific extensions it also contains other awesome extensions for frontend development.
+Besides Vue specific extensions it also contains other awesome extensions for frontend development.
 
 ## Extensions
 
-- [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+### Vue
+
+- [vscode-typescript-vue-plugin](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
+- [volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [vitest-explorer](https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer)
+
+### Other
+
 - [project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [iconify](https://marketplace.visualstudio.com/items?itemName=antfu.iconify)
 - [markdown-preview-github-styles](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
@@ -35,9 +42,6 @@ Besids Vue specific extensions it also contains other awesome extensions for fro
 - [vscode-css-peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [sass-indented](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 - [sort-lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
-- [volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-- [vscode-typescript-vue-plugin](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
 - [snippet-generator](https://marketplace.visualstudio.com/items?itemName=wenfangdu.snippet-generator)
 - [vscode-import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [vitest-explorer](https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer)
